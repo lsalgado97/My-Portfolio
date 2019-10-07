@@ -3,4 +3,4 @@ This is a personal portfolio containing some code I wish to showcase for profess
 
 - [**python-learning**](python-learning): In here are some code I wrote while taking python learning courses. It features the basics of python and also object orientation programming in the language. All code was written in JetBrains PyCharm Community Edition 2019.2 IDE, which can also be used to run the program.
 
-Soon, I will add new folders with small projects in Data Science and Machine Learning. And maybe some other interesting stuff I write around the way :)
+Soon, I intend to add new folders with small projects in Data Science and Machine Learning. And maybe some other interesting stuff I write around the way :)
