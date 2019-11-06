@@ -5,4 +5,4 @@ Currently, I'm learning Python and data science techniques so that I may start a
 
 Soon, I intend to add new folders with small projects in data science and machine learning. And maybe some other interesting stuff I write around the way :)
 
-Also, this repository has no license. However, you may download or copy the files with the sole purpose of testing them and understand what my codes do. If you are learning Python like me, I hope my codes encourage and inspire you to learn more of this magic language! :D
+Also, this repository has no license. However, you may download or copy the files with the sole purpose of testing them and understand what my codes do. If you are learning Python like me, I hope my codes encourage and inspire you to learn more of this magical language! :D
